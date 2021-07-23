@@ -1,0 +1,30 @@
+.head{
+    width: 100%;
+    margin: 0px;
+    padding-bottom: 15px;
+    box-shadow: 5px 5px 5px gray;
+    font-size: 25px;
+}
+.footer{
+position: fixed;
+    bottom: 0;
+    background-color: lawngreen;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+}
+.note{
+    color: maroon;
+    font-size: 15px;
+}
+#drawing{
+    background-color: mediumaquamarine;
+    border: 5px solid green;
+    border-radius: 15px;
+    padding: 2.5px;
+}
+canvas{
+    border: 6px dashed darkblue;
+    border-radius: 20px;
+    float: none;
+}
